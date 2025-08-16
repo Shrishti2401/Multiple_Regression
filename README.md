@@ -29,7 +29,8 @@ This project applies **Multiple Linear Regression** to predict a continuous outc
    - Adjusted R²  
    - RMSE (Root Mean Squared Error)  
    - AIC (Akaike Information Criterion)
-[See Presentation]()
+
+#### [See Presentation](https://docs.google.com/presentation/d/12w11ItBG3AdIjIeW9VxKuxLMR6geuUwx/edit?usp=sharing&ouid=117700732220450204389&rtpof=true&sd=true)
 
 ## 📊 Results
 - **Baseline R²**: ~0.61 (before adjustments)  
