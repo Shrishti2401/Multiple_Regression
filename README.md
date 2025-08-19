@@ -48,5 +48,5 @@ This project applies **Multiple Linear Regression** to predict a continuous outc
 - **Python** (NumPy, Pandas, Statsmodels, Scikit-learn, Matplotlib, Seaborn)  
 - **Statistical Techniques**: Probability Distributions, Box-Cox Transformations, Outlier Detection, Multicollinearity Tests  
 
-## 📌 Repository Structure
+
 
